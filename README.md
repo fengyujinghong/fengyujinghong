@@ -41,9 +41,8 @@
 ## 📫 联系我
 
 - 📧 邮箱：lishen0627@163.com  
-- 💬 微信（可添加注明来意）：**your_wechat**  
-- 🌐 博客地址：[https://yourblog.com](https://yourblog.com)  
-- 🔗 Zotero 经验分享专栏：*(待上线，敬请期待)*
+- 💬 微信（可添加注明来意）：
+- 🌐 博客地址： 
 
 ---
 
